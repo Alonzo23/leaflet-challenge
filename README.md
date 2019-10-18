@@ -1,3 +1,3 @@
 # leaflet-challenge
 
-![earthquakes](images/earthquake map.PNG)
+![earthquakes](images/earthquake_map.PNG)
